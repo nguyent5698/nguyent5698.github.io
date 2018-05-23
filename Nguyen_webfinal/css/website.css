@@ -1,0 +1,46 @@
+html {
+    background-color: #f2f2f2;
+}
+
+body {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+a {
+
+    font-size: 16pt;
+    padding-left: 46px;
+    padding-right: 50px;
+    padding-bottom: 12px;
+    padding-top: 15px;
+    text-decoration: none;
+    color: #d9b3ff;
+    border-left-style: dotted;
+    border-right-style: dotted;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    font-family: 'Unica One', cursive;
+
+}
+
+a:hover {
+    color: azure;
+}
+
+p {
+    box-shadow: 0 0 12px 0.5px rgba(0, 0, 0, .4);
+}
+
+text {
+    font-size: 14pt;
+    line-height: 30px;
+    text-indent: 20px;
+    font-family: 'Rajdhani', sans-serif;
+}
